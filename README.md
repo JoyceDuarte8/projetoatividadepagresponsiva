@@ -3,7 +3,7 @@ Atividade da Disciplina de Desenvolvimento de Sistemas para Web para criarmos o 
 
 Imagens:
 
-![image](https://github.com/JoyceDuarte8/projetoatividadepagresponsiva/assets/94204051/a1361cef-f430-431e-883d-cba2f7e07c8a)
+![image](https://github.com/JoyceDuarte8/projetoatividadepagresponsiva/assets/94204051/76e761bc-3567-4445-9f6c-5251e893b037)
 
 
 Roteiros de Aplicação de Acessibilidade na codificação:
